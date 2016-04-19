@@ -1,0 +1,1 @@
+По всем вопросам касательно работы интернет-магазина с нами можно связаться по адресу <a href="mailto:e-shop@dorco-razors.ru">e-shop@dorco-razors.ru</a><br>

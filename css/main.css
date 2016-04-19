@@ -1,0 +1,335 @@
+/* FrontPage */
+*{
+  margin:0;
+  padding:0;
+  position:relative;
+}
+
+
+body{
+  font-family:Arial,Tahoma,Sans-Serif;
+  background:#f8f8f8;
+}
+
+.bgtop{
+     background:url(../images/bg-top_01.gif) repeat-x;
+    height:56px;
+    width:100%;
+}
+
+.bgdiscount{
+    display: block;
+    background: #126179;
+    padding:2px;
+    width:25%;
+    color: #fff;
+}
+.bigprice{
+    font-size: 30px;
+}
+@font-face {
+    font-family: EtelkaTextBold; /* Имя шрифта */
+    src: url(../font/Etelka/EtelkaTextBold_2.otf); /* Путь к файлу со шрифтом */
+
+}
+
+@font-face {
+    font-family: EtelkaText; /* Имя шрифта */
+    src: url(../font/Etelka/EtelkaText.otf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: HelveticaBold; /* Имя шрифта */
+    src: url("../helveticaneuecyrul/helveticaneuecyrul-bold.otf");
+}
+
+@font-face {
+    font-family: HelveticaLight; /* Имя шрифта */
+    src: url("../helveticaneuecyrul/helveticaneuecyr-light.otf");
+}
+
+.clear{
+  clear:both;
+}
+
+a{
+  text-decoration:none;
+}
+
+ul li{
+  list-style:none;
+}
+
+/*Все строчные элементы для нормальной интерпретации в браузере Firefox , нужно делать блочными
+p{// Для параграфа нужно задать явно высоту , иначе в разные браузера восота этого элемента будет отличаться 
+  height:30px;
+}
+
+
+input[type="text"]{// Для input  c типом text нужно задать явно высоту , иначе в разные браузера восота этого элемента будет отличаться 
+  height:17px;
+}
+*/
+
+img{
+  border:none;
+}
+
+input{
+  outline:none;
+  border:none;
+}
+
+#main_cont,header,#content,#content #left_part,#content #right_part,#content #center,footer{
+  height:auto;
+  overflow:hidden;
+}
+
+#main_cont{
+  width:100%;
+  margin:0 auto;
+}
+
+h3{
+    color:#126179;
+    font-size:30px;
+    font-family: HelveticaBold;
+}
+#mainwrap,.wrap{
+    width:800px;
+    margin: 0 auto;
+}
+header{
+    background: #f8f8f8;
+}
+#logo{
+    background: url("../images/logo.gif");
+    width:179px;
+    height:91px;
+    margin:0  auto;
+}
+
+header .bottom{
+    font-size:19px;
+    font-family: HelveticaLight;
+}
+
+header .bottom  h3{
+    margin-bottom:20px;
+}
+
+#content{
+    margin-top:30px;
+}
+
+#products .header{
+    background: #126179;
+    width:100%;
+    height:65px;
+    font-family: EtelkaTextBold;
+}
+
+
+
+#products .header div,#products .header a{
+    display: block;
+    width:300px;
+    color:#fff;
+    margin:20px 1%;
+}
+
+#products .header div{
+    float: left;
+}
+
+#products .header a {
+    color:#fff;
+    float: right;
+    width:190px !important;
+text-decoration: underline; 
+    font-family: EtelkaText !important;
+    font-size:19px;
+}
+
+.contentproduct{
+    background: #fff;
+}
+
+.contentproduct .row {
+    width:100%;
+    overflow: hidden;
+    border-bottom:2px solid #f0f0f0; 
+    height:200px;
+}
+
+
+
+
+
+.contentproduct .row > div{
+    float: left !important;
+    width:22%;
+    float: left;
+   /* border:1px solid red;*/
+}
+
+.contentproduct .row > div > span{
+    display: block;
+    float: right;
+   /*  border:1px solid green;*/
+    margin-top:50px;
+}
+
+
+
+.contentproduct  .count,.contentproduct  .title,.contentproduct  .price{
+  margin-top:40px;
+    font-family: HelveticaBold;
+    font-size: 16px !important;
+}
+
+.infocustomer,.infoorder{
+    background: #fff;
+    margin:40px auto;
+    width:99%;
+    box-shadow:0  0  25px #e8e8e8;
+    font-family: HelveticaBold;
+}
+
+.infocustomer .row,.infoorder .row{
+    background: #fff;
+    width:100%;
+    padding:8px 5px;
+    overflow: hidden;
+   border-bottom:2px solid #f0f0f0; 
+    
+}
+
+.infocustomer .row .field,.infoorder .row .field{
+    float: left;
+    width:25%;
+    font-weight: bold;
+}
+.infocustomer .row .value ,.infoorder .row .value{
+    float: right;
+    width:25%;
+    font-weight: bold;
+}
+
+.message{
+    background: #f0f0f0;
+    overflow: hidden;
+}
+
+
+.message{
+    padding:20px 0;
+    font-family: HelveticaLight;
+}
+
+
+.wrap  .textmessage{
+    width:50%;
+    float: left;
+}
+.wrap  .imgmessage{
+    width:7%;
+    float: left;
+}
+
+#contact{
+    background: #fff;
+    overflow: hidden;
+    padding:30px 0;
+}
+
+#contact h3,.icons h3{
+    font-size: 19px !important;
+    margin:6px !important;
+}
+
+#contact ul{
+    overflow: hidden;
+}
+
+#contact li {
+    float: left;
+    width:40%;
+    margin:30px 3%;
+}
+
+#contact li .text {
+    float: right;
+    width: 60%;
+     right:5%;
+    font-family: HelveticaBold;
+}
+
+#contact li .img {
+    float: left;
+    width: 30%;
+    left:7%;
+}
+
+#contact .add{
+     background: url("../images/add.gif");
+    width:177px;
+    height:36px;
+    display: block;
+    margin:20px 3%;
+}
+
+
+.icons{
+    overflow: hidden;
+    background: #f8f8f8;
+    margin:30px 0;
+    
+}
+
+.icons ul{
+    width:70%;
+    right:5%;
+    margin:0  auto;
+}
+
+
+.icons  ul  li{
+    float: right;
+    width:7%;
+    margin:0 5%;
+    
+}
+footer{
+    background: #105d78;
+    font-family: HelveticaLight;
+}
+
+
+
+footer ul{
+    float: left;
+    width:17%;
+    margin:20px 3%;
+}
+
+footer ul a {
+    color:#fff;
+    font-size: 14px;
+    text-decoration: underline !important;
+}
+
+
+
+@media screen and (max-width: 800px){
+    #products .header > div{
+        width:50%;
+        
+    }
+    
+    .wrap .textmessage{
+        left:3%;
+    }
+}
+    
+ 

@@ -1,0 +1,1 @@
+<a href="mailto:e-shop@dorco-razors.ru">e-shop@dorco-razors.ru</a>

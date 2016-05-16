@@ -1,14 +1,14 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("title", "DORCO-razors.ru - Бритвенные станки, системы, сменные кассеты, средства и аксессуары для бритья");
-$APPLICATION->SetPageProperty("keywords", "Дорко, купить дорко, купить dorco, купить dorco, dorko, вщксщ, вщклщ, бритье, dorco, компания dorco, качественное бритье, чистое бритье, интернет-магазин dorco, магазин dorco, продукция dorco, dorco оптом, мужская бритвенная система, мужской одноразовый станок, женская бритвенная система, женский одноразовый станок, классический бритвенный станок");
-$APPLICATION->SetPageProperty("description", "Официальный интернет-магазин DORCO. Огромный выбор бритвенных станков, систем, сменных кассет, а так же средств и аксессуаров для бритья.");
-$APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные кассеты, средства и аксессуары для бритья");
+$APPLICATION->SetPageProperty("title", "DORCO-razors.ru - Р‘СЂРёС‚РІРµРЅРЅС‹Рµ СЃС‚Р°РЅРєРё, СЃРёСЃС‚РµРјС‹, СЃРјРµРЅРЅС‹Рµ РєР°СЃСЃРµС‚С‹, СЃСЂРµРґСЃС‚РІР° Рё Р°РєСЃРµСЃСЃСѓР°СЂС‹ РґР»СЏ Р±СЂРёС‚СЊСЏ");
+$APPLICATION->SetPageProperty("keywords", "Р”РѕСЂРєРѕ, РєСѓРїРёС‚СЊ РґРѕСЂРєРѕ, РєСѓРїРёС‚СЊ dorco, РєСѓРїРёС‚СЊ dorco, dorko, РІС‰РєСЃС‰, РІС‰РєР»С‰, Р±СЂРёС‚СЊРµ, dorco, РєРѕРјРїР°РЅРёСЏ dorco, РєР°С‡РµСЃС‚РІРµРЅРЅРѕРµ Р±СЂРёС‚СЊРµ, С‡РёСЃС‚РѕРµ Р±СЂРёС‚СЊРµ, РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ dorco, РјР°РіР°Р·РёРЅ dorco, РїСЂРѕРґСѓРєС†РёСЏ dorco, dorco РѕРїС‚РѕРј, РјСѓР¶СЃРєР°СЏ Р±СЂРёС‚РІРµРЅРЅР°СЏ СЃРёСЃС‚РµРјР°, РјСѓР¶СЃРєРѕР№ РѕРґРЅРѕСЂР°Р·РѕРІС‹Р№ СЃС‚Р°РЅРѕРє, Р¶РµРЅСЃРєР°СЏ Р±СЂРёС‚РІРµРЅРЅР°СЏ СЃРёСЃС‚РµРјР°, Р¶РµРЅСЃРєРёР№ РѕРґРЅРѕСЂР°Р·РѕРІС‹Р№ СЃС‚Р°РЅРѕРє, РєР»Р°СЃСЃРёС‡РµСЃРєРёР№ Р±СЂРёС‚РІРµРЅРЅС‹Р№ СЃС‚Р°РЅРѕРє");
+$APPLICATION->SetPageProperty("description", "РћС„РёС†РёР°Р»СЊРЅС‹Р№ РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ DORCO. РћРіСЂРѕРјРЅС‹Р№ РІС‹Р±РѕСЂ Р±СЂРёС‚РІРµРЅРЅС‹С… СЃС‚Р°РЅРєРѕРІ, СЃРёСЃС‚РµРј, СЃРјРµРЅРЅС‹С… РєР°СЃСЃРµС‚, Р° С‚Р°Рє Р¶Рµ СЃСЂРµРґСЃС‚РІ Рё Р°РєСЃРµСЃСЃСѓР°СЂРѕРІ РґР»СЏ Р±СЂРёС‚СЊСЏ.");
+$APPLICATION->SetTitle("DORCO-razors.ru - Р‘СЂРёС‚РІРµРЅРЅС‹Рµ СЃС‚Р°РЅРєРё, СЃРёСЃС‚РµРјС‹, СЃРјРµРЅРЅС‹Рµ РєР°СЃСЃРµС‚С‹, СЃСЂРµРґСЃС‚РІР° Рё Р°РєСЃРµСЃСЃСѓР°СЂС‹ РґР»СЏ Р±СЂРёС‚СЊСЏ");
 ?>
 <? global $SITE_THEME; ?>
 	<?$APPLICATION->IncludeComponent(
-	"aspro:com.banners", 
-	"top_slider_banners", 
+	"aspro:com.banners",
+	"top_slider_banners",
 	array(
 		"IBLOCK_TYPE" => "aspro_kshop_adv",
 		"IBLOCK_ID" => "65",
@@ -42,8 +42,8 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 <div class="wrapper_inner">
 	<?$GLOBALS["arrIndexFilter"] = array(array("!PROPERTY_SHOW_ON_INDEX_PAGE" => false)); ?>
 	<?$APPLICATION->IncludeComponent(
-	"bitrix:catalog.top", 
-	"front_slider", 
+	"bitrix:catalog.top",
+	"front_slider",
 	array(
 		"IBLOCK_TYPE" => "catalog",
 		"IBLOCK_ID" => "9",
@@ -112,11 +112,11 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 	),
 	false
 );?>
-	
+
 	<?$GLOBALS["arrTopFilter"] = array("!PROPERTY_HIT" => false);?>
 	<?$APPLICATION->IncludeComponent(
-	"bitrix:catalog.top", 
-	"specials_slider", 
+	"bitrix:catalog.top",
+	"specials_slider",
 	array(
 		"IBLOCK_TYPE" => "aspro_kshop_catalog",
 		"IBLOCK_ID" => "9",
@@ -185,15 +185,15 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 		"COMPARE_PATH" => ""
 	),
 	false
-);?> 
+);?>
 
 
-<div class="index_bottom">	
+<div class="index_bottom">
 	<img class="shadow" src="<?=SITE_TEMPLATE_PATH?>/images/shadow_bottom.png" />
 	<div class="banners_column">
 		<?$APPLICATION->IncludeComponent(
-	"aspro:com.banners", 
-	"small_banners", 
+	"aspro:com.banners",
+	"small_banners",
 	array(
 		"IBLOCK_TYPE" => "aspro_kshop_adv",
 		"IBLOCK_ID" => "65",
@@ -225,8 +225,8 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 		<div class="news_column">
 			<img class="shadow" src="<?=SITE_TEMPLATE_PATH?>/images/shadow_bottom.png" />
 			<?$APPLICATION->IncludeComponent(
-	"bitrix:news.list", 
-	"news_slider", 
+	"bitrix:news.list",
+	"news_slider",
 	array(
 		"IBLOCK_TYPE" => "news",
 		"IBLOCK_ID" => "8",
@@ -289,8 +289,8 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 </div>
 
 <?$APPLICATION->IncludeComponent(
-	"bitrix:news.list", 
-	"brands_slider_new", 
+	"bitrix:news.list",
+	"brands_slider_new",
 	array(
 		"IBLOCK_TYPE" => "aspro_kshop_content",
 		"IBLOCK_ID" => "66",

@@ -46,7 +46,8 @@ $APPLICATION->SetTitle("Акции");
 		),
 		"LIST_PROPERTY_CODE" => array(
 			0 => "PERIOD",
-			1 => "",
+			1 => "LINK",
+			2 => "",
 		),
 		"HIDE_LINK_WHEN_NO_DETAIL" => "N",
 		"DISPLAY_NAME" => "Y",

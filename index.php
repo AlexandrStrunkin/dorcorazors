@@ -1,8 +1,8 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("title", "DORCO-razors.ru - Бритвенные станки, системы, сменные кассеты, средства и аксессуары для бритья");
-$APPLICATION->SetPageProperty("keywords", "Дорко, купить дорко, купить dorco, купить dorco, dorko, вщксщ, вщклщ, бритье, dorco, компания dorco, качественное бритье, чистое бритье, интернет-магазин dorco, магазин dorco, продукция dorco, dorco оптом, мужская бритвенная система, мужской одноразовый станок, женская бритвенная система, женский одноразовый станок, классический бритвенный станок");
-$APPLICATION->SetPageProperty("description", "Официальный интернет-магазин DORCO. Огромный выбор бритвенных станков, систем, сменных кассет, а так же средств и аксессуаров для бритья.");
-$APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные кассеты, средства и аксессуары для бритья");
+$APPLICATION->SetPageProperty("title", "DORCO-razors.ru - ���������� ������, �������, ������� �������, �������� � ���������� ��� ������");
+$APPLICATION->SetPageProperty("keywords", "�����, ������ �����, ������ dorco, ������ dorco, dorko, �����, �����, ������, dorco, �������� dorco, ������������ ������, ������ ������, ��������-������� dorco, ������� dorco, ��������� dorco, dorco �����, ������� ���������� �������, ������� ����������� ������, ������� ���������� �������, ������� ����������� ������, ������������ ���������� ������");
+$APPLICATION->SetPageProperty("description", "����������� ��������-������� DORCO. �������� ����� ���������� �������, ������, ������� ������, � ��� �� ������� � ����������� ��� ������.");
+$APPLICATION->SetTitle("DORCO-razors.ru - ���������� ������, �������, ������� �������, �������� � ���������� ��� ������");
 ?>
 <? global $SITE_THEME; ?>
     <?$APPLICATION->IncludeComponent(
@@ -225,124 +225,127 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, с�
         <div class="slide_2"><h3><?=GetMessage("SALE")?></h3></div>
             <div id="slide_1">
                 <?$APPLICATION->IncludeComponent(
-                    "bitrix:news.list",
-                    "slider_home",
-                    array(
-                        "IBLOCK_TYPE" => "news",
-                        "IBLOCK_ID" => "8",
-                        "NEWS_COUNT" => "5",
-                        "SORT_BY1" => "rand",
-                        "SORT_ORDER1" => "DESC",
-                        "SORT_BY2" => "SORT",
-                        "SORT_ORDER2" => "ASC",
-                        "FILTER_NAME" => "",
-                        "FIELD_CODE" => array(
-                            0 => "",
-                            1 => "",
-                        ),
-                        "PROPERTY_CODE" => array(
-                            0 => "",
-                            1 => "",
-                        ),
-                        "CHECK_DATES" => "Y",
-                        "DETAIL_URL" => "#SITE_DIR#/news/#CODE#/",
-                        "AJAX_MODE" => "N",
-                        "AJAX_OPTION_JUMP" => "N",
-                        "AJAX_OPTION_STYLE" => "Y",
-                        "AJAX_OPTION_HISTORY" => "N",
-                        "CACHE_TYPE" => "N",
-                        "CACHE_TIME" => "36000000",
-                        "CACHE_FILTER" => "N",
-                        "CACHE_GROUPS" => "N",
-                        "PREVIEW_TRUNCATE_LEN" => "",
-                        "ACTIVE_DATE_FORMAT" => "j F Y",
-                        "SET_TITLE" => "N",
-                        "SET_STATUS_404" => "N",
-                        "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
-                        "ADD_SECTIONS_CHAIN" => "N",
-                        "HIDE_LINK_WHEN_NO_DETAIL" => "N",
-                        "PARENT_SECTION" => "",
-                        "PARENT_SECTION_CODE" => "",
-                        "INCLUDE_SUBSECTIONS" => "Y",
-                        "PAGER_TEMPLATE" => "",
-                        "DISPLAY_TOP_PAGER" => "N",
-                        "DISPLAY_BOTTOM_PAGER" => "N",
-                        "PAGER_TITLE" => "",
-                        "PAGER_SHOW_ALWAYS" => "N",
-                        "PAGER_DESC_NUMBERING" => "N",
-                        "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
-                        "PAGER_SHOW_ALL" => "N",
-                        "AJAX_OPTION_ADDITIONAL" => "",
-                        "COMPONENT_TEMPLATE" => "slider_home",
-                        "SET_BROWSER_TITLE" => "Y",
-                        "SET_META_KEYWORDS" => "Y",
-                        "SET_META_DESCRIPTION" => "Y",
-                        "SET_LAST_MODIFIED" => "N",
-                        "PAGER_BASE_LINK_ENABLE" => "N",
-                        "SHOW_404" => "N",
-                        "MESSAGE_404" => ""
-                    ),
-                    false
-                );?>
+    "bitrix:news.list", 
+    "slide_home", 
+    array(
+        "IBLOCK_TYPE" => "news",
+        "IBLOCK_ID" => "8",
+        "NEWS_COUNT" => "5",
+        "SORT_BY1" => "rand",
+        "SORT_ORDER1" => "DESC",
+        "SORT_BY2" => "SORT",
+        "SORT_ORDER2" => "ASC",
+        "FILTER_NAME" => "",
+        "FIELD_CODE" => array(
+            0 => "",
+            1 => "",
+        ),
+        "PROPERTY_CODE" => array(
+            0 => "",
+            1 => "",
+        ),
+        "CHECK_DATES" => "Y",
+        "DETAIL_URL" => "#SITE_DIR#/news/#CODE#/",
+        "AJAX_MODE" => "N",
+        "AJAX_OPTION_JUMP" => "N",
+        "AJAX_OPTION_STYLE" => "Y",
+        "AJAX_OPTION_HISTORY" => "N",
+        "CACHE_TYPE" => "N",
+        "CACHE_TIME" => "36000000",
+        "CACHE_FILTER" => "N",
+        "CACHE_GROUPS" => "N",
+        "PREVIEW_TRUNCATE_LEN" => "",
+        "ACTIVE_DATE_FORMAT" => "j F Y",
+        "SET_TITLE" => "N",
+        "SET_STATUS_404" => "N",
+        "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+        "ADD_SECTIONS_CHAIN" => "N",
+        "HIDE_LINK_WHEN_NO_DETAIL" => "N",
+        "PARENT_SECTION" => "",
+        "PARENT_SECTION_CODE" => "",
+        "INCLUDE_SUBSECTIONS" => "Y",
+        "PAGER_TEMPLATE" => "",
+        "DISPLAY_TOP_PAGER" => "N",
+        "DISPLAY_BOTTOM_PAGER" => "N",
+        "PAGER_TITLE" => "",
+        "PAGER_SHOW_ALWAYS" => "N",
+        "PAGER_DESC_NUMBERING" => "N",
+        "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+        "PAGER_SHOW_ALL" => "N",
+        "AJAX_OPTION_ADDITIONAL" => "",
+        "COMPONENT_TEMPLATE" => "slide_home",
+        "SET_BROWSER_TITLE" => "Y",
+        "SET_META_KEYWORDS" => "Y",
+        "SET_META_DESCRIPTION" => "Y",
+        "SET_LAST_MODIFIED" => "N",
+        "PAGER_BASE_LINK_ENABLE" => "N",
+        "SHOW_404" => "N",
+        "MESSAGE_404" => ""
+    ),
+    false
+);?>
             </div>
             <div id="slide_2">
-                <?$APPLICATION->IncludeComponent("bitrix:news.list", "slider_home", Array(
-                    "IBLOCK_TYPE" => "aspro_kshop_content",    // Тип информационного блока (используется только для проверки)
-                        "IBLOCK_ID" => "70",    // Код информационного блока
-                        "NEWS_COUNT" => "5",    // Количество новостей на странице
-                        "SORT_BY1" => "ACTIVE_FROM",    // Поле для первой сортировки новостей
-                        "SORT_ORDER1" => "DESC",    // Направление для первой сортировки новостей
-                        "SORT_BY2" => "SORT",    // Поле для второй сортировки новостей
-                        "SORT_ORDER2" => "ASC",    // Направление для второй сортировки новостей
-                        "FILTER_NAME" => "",    // Фильтр
-                        "FIELD_CODE" => array(    // Поля
-                            0 => "",
-                            1 => "",
-                        ),
-                        "PROPERTY_CODE" => array(    // Свойства
-                            0 => "PERIOD",
-                            1 => "",
-                        ),
-                        "CHECK_DATES" => "Y",    // Показывать только активные на данный момент элементы
-                        "DETAIL_URL" => "#SITE_DIR#/sale/#CODE#/",    // URL страницы детального просмотра (по умолчанию - из настроек инфоблока)
-                        "AJAX_MODE" => "N",    // Включить режим AJAX
-                        "AJAX_OPTION_JUMP" => "N",    // Включить прокрутку к началу компонента
-                        "AJAX_OPTION_STYLE" => "Y",    // Включить подгрузку стилей
-                        "AJAX_OPTION_HISTORY" => "N",    // Включить эмуляцию навигации браузера
-                        "CACHE_TYPE" => "N",    // Тип кеширования
-                        "CACHE_TIME" => "36000000",    // Время кеширования (сек.)
-                        "CACHE_FILTER" => "N",    // Кешировать при установленном фильтре
-                        "CACHE_GROUPS" => "N",    // Учитывать права доступа
-                        "PREVIEW_TRUNCATE_LEN" => "",    // Максимальная длина анонса для вывода (только для типа текст)
-                        "ACTIVE_DATE_FORMAT" => "j F Y",    // Формат показа даты
-                        "SET_TITLE" => "N",    // Устанавливать заголовок страницы
-                        "SET_STATUS_404" => "N",    // Устанавливать статус 404
-                        "INCLUDE_IBLOCK_INTO_CHAIN" => "N",    // Включать инфоблок в цепочку навигации
-                        "ADD_SECTIONS_CHAIN" => "N",    // Включать раздел в цепочку навигации
-                        "HIDE_LINK_WHEN_NO_DETAIL" => "N",    // Скрывать ссылку, если нет детального описания
-                        "PARENT_SECTION" => "",    // ID раздела
-                        "PARENT_SECTION_CODE" => "",    // Код раздела
-                        "INCLUDE_SUBSECTIONS" => "Y",    // Показывать элементы подразделов раздела
-                        "PAGER_TEMPLATE" => "",    // Шаблон постраничной навигации
-                        "DISPLAY_TOP_PAGER" => "N",    // Выводить над списком
-                        "DISPLAY_BOTTOM_PAGER" => "N",    // Выводить под списком
-                        "PAGER_TITLE" => "",    // Название категорий
-                        "PAGER_SHOW_ALWAYS" => "N",    // Выводить всегда
-                        "PAGER_DESC_NUMBERING" => "N",    // Использовать обратную навигацию
-                        "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",    // Время кеширования страниц для обратной навигации
-                        "PAGER_SHOW_ALL" => "N",    // Показывать ссылку "Все"
-                        "AJAX_OPTION_ADDITIONAL" => "",    // Дополнительный идентификатор
-                        "COMPONENT_TEMPLATE" => "news_slider",
-                        "SET_BROWSER_TITLE" => "Y",    // Устанавливать заголовок окна браузера
-                        "SET_META_KEYWORDS" => "Y",    // Устанавливать ключевые слова страницы
-                        "SET_META_DESCRIPTION" => "Y",    // Устанавливать описание страницы
-                        "SET_LAST_MODIFIED" => "N",    // Устанавливать в заголовках ответа время модификации страницы
-                        "PAGER_BASE_LINK_ENABLE" => "N",    // Включить обработку ссылок
-                        "SHOW_404" => "N",    // Показ специальной страницы
-                        "MESSAGE_404" => "",    // Сообщение для показа (по умолчанию из компонента)
-                    ),
-                    false
-                );?>
+                <?$APPLICATION->IncludeComponent(
+    "bitrix:news.list", 
+    "slide_home", 
+    array(
+        "IBLOCK_TYPE" => "aspro_kshop_content",
+        "IBLOCK_ID" => "70",
+        "NEWS_COUNT" => "5",
+        "SORT_BY1" => "ACTIVE_FROM",
+        "SORT_ORDER1" => "DESC",
+        "SORT_BY2" => "SORT",
+        "SORT_ORDER2" => "ASC",
+        "FILTER_NAME" => "",
+        "FIELD_CODE" => array(
+            0 => "",
+            1 => "",
+        ),
+        "PROPERTY_CODE" => array(
+            0 => "PERIOD",
+            1 => "",
+        ),
+        "CHECK_DATES" => "Y",
+        "DETAIL_URL" => "#SITE_DIR#/sale/#CODE#/",
+        "AJAX_MODE" => "N",
+        "AJAX_OPTION_JUMP" => "N",
+        "AJAX_OPTION_STYLE" => "Y",
+        "AJAX_OPTION_HISTORY" => "N",
+        "CACHE_TYPE" => "N",
+        "CACHE_TIME" => "36000000",
+        "CACHE_FILTER" => "N",
+        "CACHE_GROUPS" => "N",
+        "PREVIEW_TRUNCATE_LEN" => "",
+        "ACTIVE_DATE_FORMAT" => "j F Y",
+        "SET_TITLE" => "N",
+        "SET_STATUS_404" => "N",
+        "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+        "ADD_SECTIONS_CHAIN" => "N",
+        "HIDE_LINK_WHEN_NO_DETAIL" => "N",
+        "PARENT_SECTION" => "",
+        "PARENT_SECTION_CODE" => "",
+        "INCLUDE_SUBSECTIONS" => "Y",
+        "PAGER_TEMPLATE" => "",
+        "DISPLAY_TOP_PAGER" => "N",
+        "DISPLAY_BOTTOM_PAGER" => "N",
+        "PAGER_TITLE" => "",
+        "PAGER_SHOW_ALWAYS" => "N",
+        "PAGER_DESC_NUMBERING" => "N",
+        "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+        "PAGER_SHOW_ALL" => "N",
+        "AJAX_OPTION_ADDITIONAL" => "",
+        "COMPONENT_TEMPLATE" => "slide_home",
+        "SET_BROWSER_TITLE" => "Y",
+        "SET_META_KEYWORDS" => "Y",
+        "SET_META_DESCRIPTION" => "Y",
+        "SET_LAST_MODIFIED" => "N",
+        "PAGER_BASE_LINK_ENABLE" => "N",
+        "SHOW_404" => "N",
+        "MESSAGE_404" => ""
+    ),
+    false
+);?>
             </div>
         </div>
     </div>

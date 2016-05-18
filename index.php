@@ -216,6 +216,7 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
             false
         );?>
     </div>
+
     <div class="info_column clearfix">
         <div class="about_column">
             <?$APPLICATION->IncludeComponent("bitrix:main.include", ".default", Array("AREA_FILE_SHOW" => "file","PATH" => SITE_DIR."include/front_info.php","EDIT_TEMPLATE" => ""));?>
@@ -229,7 +230,7 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 	                "slide_home",
 	                array(
 		                "IBLOCK_TYPE" => "news",
-		                "IBLOCK_ID" => "8",
+		                "IBLOCK_ID" => $arBlockId['ID_IBLOCK_NEWS_HOME'],
 		                "NEWS_COUNT" => "5",
 		                "SORT_BY1" => "rand",
 		                "SORT_ORDER1" => "DESC",
@@ -291,7 +292,7 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 	                "news_slider",
 	                array(
 		                "IBLOCK_TYPE" => "aspro_kshop_content",
-		                "IBLOCK_ID" => "70",
+		                "IBLOCK_ID" => $arBlockId['ID_IBLOCK_SALE_HOME'],
 		                "NEWS_COUNT" => "5",
 		                "SORT_BY1" => "ACTIVE_FROM",
 		                "SORT_ORDER1" => "DESC",

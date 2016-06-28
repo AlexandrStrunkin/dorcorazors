@@ -39,7 +39,7 @@ $APPLICATION->SetTitle("ќформление заказа");
 		"COMPONENT_TEMPLATE" => "main",
 		"PROP_5" => "",
 		"PROP_6" => "",
-		"ALLOW_NEW_PROFILE" => "Y",
+		"ALLOW_NEW_PROFILE" => "N",
 		"SHOW_PAYMENT_SERVICES_NAMES" => "Y",
 		"COMPATIBLE_MODE" => "Y",
 		"BASKET_IMAGES_SCALING" => "adaptive",
@@ -68,7 +68,18 @@ $APPLICATION->SetTitle("ќформление заказа");
 		"SHOW_PAY_SYSTEM_INFO_NAME" => "Y",
 		"DELIVERIES_PER_PAGE" => "8",
 		"PAY_SYSTEMS_PER_PAGE" => "8",
-		"PICKUPS_PER_PAGE" => "5"
+		"PICKUPS_PER_PAGE" => "5",
+		"SHOW_ORDER_BUTTON" => "final_step",
+		"SHOW_TOTAL_ORDER_BUTTON" => "N",
+		"SHOW_DELIVERY_LIST_NAMES" => "Y",
+		"SHOW_DELIVERY_INFO_NAME" => "Y",
+		"SKIP_USELESS_BLOCK" => "Y",
+		"ADDITIONAL_PICT_PROP_9" => "-",
+		"ADDITIONAL_PICT_PROP_10" => "-",
+		"ADDITIONAL_PICT_PROP_12" => "-",
+		"ADDITIONAL_PICT_PROP_73" => "-",
+		"SERVICES_IMAGES_SCALING" => "standard",
+		"USE_YM_GOALS" => "N"
 	),
 	false
 );?>

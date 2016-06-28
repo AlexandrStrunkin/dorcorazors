@@ -232,7 +232,7 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 		"IBLOCK_TYPE" => "news",
 		"IBLOCK_ID" => $arBlockId["ID_IBLOCK_NEWS_HOME"],
 		"NEWS_COUNT" => "5",
-		"SORT_BY1" => "rand",
+		"SORT_BY1" => "ACTIVE_FROM",
 		"SORT_ORDER1" => "DESC",
 		"SORT_BY2" => "SORT",
 		"SORT_ORDER2" => "ASC",

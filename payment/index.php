@@ -17,7 +17,7 @@ $APPLICATION->SetTitle("Условия оплаты");
 <div>
  <b>On-line оплата на сайте&nbsp;<br>
  </b><br>
-	 Доступны следующие виды on-line оплаты:<br>
+	 Доступны несколько видов on-line оплаты, в числе которых:<br>
 	<ul>
 		<li>Банковская карта (Visa, MasterCard, Maestro).<br>
  </li>

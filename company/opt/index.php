@@ -5,4 +5,4 @@ $APPLICATION->SetTitle("Оптовые продажи DORCO");
  <br>
  Для получения актуального прайс-листа и ознакомления с основными условиями сотрудничества просим Вас выслать&nbsp;запрос на нашу почту <a href="mailto:info@dorco-razors.ru">info@dorco-razors.ru</a>&nbsp;.<br>
  <br>
- Вы также всегда можете связаться с нами по телефону <a href="tel:+7 499 707-71-07">+7 (499) 707-71-07 (доб.1)</a>.<br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+ Вы также всегда можете связаться с нами по телефону <a href="tel:+7 495 407-04-87">+7 495 407-04-87</a>.<br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

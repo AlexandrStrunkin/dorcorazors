@@ -1,0 +1,9 @@
+Array
+(
+    [TO] => st@webgk.ru
+    [SUBJECT] => dfsf
+    [BODY] => test
+    [HEADERS] => ttt
+)
+
+========

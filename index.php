@@ -174,7 +174,7 @@ $APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные ка
 		),
 		"FILTER_NAME" => "arrTopFilter",
 		"SPECIALS_CODE1" => "HIT",
-		"SPECIALS_CODE2" => "RECOMMEND",
+		"SPECIALS_CODE2" => "SPECIALOFFER",
 		"SPECIALS_CODE3" => "NEW",
 		"SPECIALS_CODE4" => "STOCK",
 		"COMPONENT_TEMPLATE" => "specials_slider",

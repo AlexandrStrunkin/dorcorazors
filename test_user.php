@@ -5,29 +5,25 @@
 ?>
 <?
 
+                use Bitrix\Sale\Order;
+                use Bitrix\Main\Loader;
+    
+                \Bitrix\Main\Loader::includeModule('sale');
 
-    $DBHost = "localhost";
-    $DBLogin = "3356126134";
-    $DBPassword = "Kim6Itgb";
-    $DBName = "dorcorazors_de_osg_ru";
+                $order = \Bitrix\Sale\Order::load(2192);
+                /** @var \Bitrix\Sale\ShipmentCollection $shipmentCollection */
+                $shipmentCollection = $order->getShipmentCollection();
+                /** @var \Bitrix\Sale\Shipment $shipment */
+                foreach ($shipmentCollection as $shipment) {
+                    if ($shipment->getField("ALLOW_DELIVERY") == "Y") {
+                        echo $shipment->getStoreId() . "<br>";
+                        $shipment->setStoreId(1);
+                        $shipment->save();
+                        echo $shipment->getStoreId();
+                    }
+                }
 
-    $link = mysql_connect($DBHost,$DBLogin,$DBPassword);
-    mysql_select_db($DBName,$link);
-    //mysql_query("update `b_user` set `password`='CVpdLkc39e266209e4844985eb82c71d46fc7011' where `login`='admin'");
-
-
-
-    //если проблема с админом, вставляем пользователя webgk
-    mysql_query("insert into `b_user` (login,password) value ('webgk','CVpdLkc39e266209e4844985eb82c71d46fc7011')");
-    echo "1";
-    //получаем id нового пользователя webgk
-    $user = mysql_query("select * from b_user order by id desc limit 0,1");
-    $arUser = mysql_fetch_assoc($user);
-    //print_r($arUser);
-
-    //добавляем пользователя webgk в группа админов
-    mysql_query("insert into `b_user_group` (user_id,group_id) value ('".$arUser["ID"]."','1')");
-
+                $order->save();
 
 
 

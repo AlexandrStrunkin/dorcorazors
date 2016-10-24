@@ -1,7 +1,7 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Условия доставки");
-?><a name="delivery_moscow1"></a> <b>МОСКВА И МОСКОВСКАЯ ОБЛАСТЬ <br>
+?><a name="delivery_moscow"></a> <b>МОСКВА И МОСКОВСКАЯ ОБЛАСТЬ <br>
  </b> <br>
  <b> </b>
 <div>

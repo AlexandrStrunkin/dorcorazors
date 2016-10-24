@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2016-02-19 0:30">
+    <shop>
+        <name>DORCO-razors</name>
+        <company>ООО "Компания ДДК"</company>
+        <url>http://dorco-razors.ru/</url>
+        
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        
+        <categories>
+            <category id="1">Мужские бритвы</category>
+            <category id="11" parentId="1">Системы для бритья</category>
+            <category id="12" parentId="1">Сменные кассеты для бритья</category>
+            <category id="13" parentId="1">Одноразовые станки для бритья</category>
+			
+            <category id="2">Женские бритвы</category>
+            <category id="21" parentId="2">Системы для бритья</category>
+            <category id="22" parentId="2">Сменные кассеты для бритья</category>
+			<category id="23" parentId="2">Одноразовые станки для бритья</category>
+
+		<category id="3">Классический бритвенный станок</category>
+            
+		<category id="4">Средства для бритья</category>
+            <category id="41" parentId="4">Пены для бритья</category>
+            <category id="42" parentId="4">Гели для бритья</category>
+		<category id="43" parentId="4">Женские гели для бритья</category>
+		<category id="44" parentId="4">Крема для бритья</category>
+
+		<category id="5">Средства после бритья</category>
+            <category id="51" parentId="5">Крема после бритья</category>
+            <category id="52" parentId="5">Бальзамы и лосьоны после бритья</category>
+		
+		<category id="6">Аксессуары для бритья</category>
+            <category id="61" parentId="6">Помазки</category>
+            <category id="62" parentId="6">Корректоры бровей</category>
+
+          </categories>
+        
+           <offers>
+<offer id="005" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/men_razors/shave_systems/2654/</url>
+                <price>790</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/2df/2df54919b1b0d6f2f920e4ee878cfbd2.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SVA 1000</vendorCode>
+                <model>PACE7</model>
+                <description>Бритьё на новом уровне! 
+Первая и единственная 7-лезвийная бритвенная система позволяет получать самое удобное и гладкое бритье.
+Резиновое покрытие металлической ручки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская бритвенная система</param>
+				<param name="Количество лезвий">7</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Металл, резиновые вставки</param>
+            </offer>
+
+
+            <offer id="010" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_systems/2508/</url>
+                <price>690</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/3d6/3d6f13039a023fc02fb87f05b219c2e7.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SXA 5000</vendorCode>
+                <model>PACE6 Plus</model>
+                <description>Эксклюзив! 6-лезвийная бритвенная система с дополнительным лезвием-триммером на обратной стороне картриджа!
+Резиновое покрытие металлической ручки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская бритвенная система</param>
+				<param name="Количество лезвий">6+1</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Металл, резиновые вставки</param>
+            </offer>
+
+<offer id="015" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_systems/2581/</url>
+                <price>590</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/631/631c875aa367fc5c60d0b2e2f9442525.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SXA 1100</vendorCode>
+                <model>PACE6</model>
+                <description>Первая в мире система для бритья с 6 лезвиями! Обеспечивает непревзойденный результат за одно движение.
+Резиновое покрытие металлической ручки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская бритвенная система</param>
+				<param name="Количество лезвий">6</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Металл, резиновые вставки</param>
+            </offer>
+
+<offer id="020" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_systems/2510/</url>
+                <price>500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/fc3/fc3bccb6a6d8d06139ae511445796773.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA 1100</vendorCode>
+                <model>PACE4</model>
+                <description>Идеально подходит для 3-х дневной щетины! Использование 4 лезвий при бритье обеспечивает превосходный результат за одно движение.
+Резиновое покрытие металлической ручки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская бритвенная система</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Металл, резиновые вставки</param>
+            </offer>
+
+<offer id="025" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_systems/2511/</url>
+                <price>400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/d0b/d0b437de05eafb7a45126ea0f598e572.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TRA 1000</vendorCode>
+                <model>PACE3</model>
+                <description>Отличная базовая бритва!    
+3-лезвийная бритвенная система обеспечивает отличное и комфортное бритье.
+Резиновое покрытие металлической ручки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская бритвенная система</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Металл, резиновые вставки</param>
+            </offer>
+
+<offer id="030" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_systems/952/</url>
+                <price>450</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/eec/eecb4dd5ddce6e7f4ff17c9a2d3db680.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TRXP-7000</vendorCode>
+                <model>XPEC3 Power</model>
+                <description>3-лезвийная бритвенная система c функцией микропульсации, придающей массажирующий эффект и обеспечивают мягкость бритья.
+Удобная пластиковая ручка с резиновыми вставками.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская бритвенная система</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Пластик, резиновые вставки</param>
+            </offer>
+
+<offer id="035" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_systems/1013/</url>
+                <price>300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>11</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/691/691064e1b458e7ec0522c7355764bbef.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TNA 3002</vendorCode>
+                <model>TG-II Plus</model>
+                <description>2-лезвийная бритвенная система обеспечивает отличное и мягкое бритье.
+Удобная эргономичная пластиковая ручка с резиновыми вставками.
+Совместима с Gillette Slalom Plus®.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская бритвенная система</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Подставка">Нет</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">1</param>
+				<param name="Материал ручки">Пластик, резиновые вставки</param>
+            </offer>
+
+<offer id="050" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/men_razors/shave_blades/2655/</url>
+                <price>790</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/086/08648f6d807fc93f7255abc81ca44266.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SVA 1040</vendorCode>
+                <model>PACE7</model>
+                <description>Бритьё на новом уровне! 
+Первые и единственные 7-лезвийные бритвенные кассеты позволяет получать самое удобное и гладкое бритье.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">7</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+			</offer>            
+
+<offer id="055" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_blades/950/</url>
+                <price>690</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/038/0386e434c8b4213224df97e600666de3.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SXA 5040</vendorCode>
+                <model>PACE6 Plus</model>
+                <description>Эксклюзив! 6-лезвийные сменные кассеты для бритья с дополнительным лезвием-триммером на обратной стороне картриджа! 
+Увлажняющая полоса. Широкий микрогребень из эластомера.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">6+1</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+			</offer>
+
+<offer id="060" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_blades/2512/</url>
+                <price>500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/482/4829afb431b764f61e3226f3c2de64ae.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA 1040</vendorCode>
+                <model>PACE4</model>
+                <description>Идеально подходит для 3-х дневной щетины! Использование 4 лезвий при бритье обеспечивает превосходный результат за одно движение. 
+Cмазывающая полоска. Резиновый микрогребень.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+            </offer>
+
+<offer id="065" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_blades/956/</url>
+                <price>400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/555/555a731b43df06b0c4e45168cfba7557.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TRA 1040</vendorCode>
+                <model>PACE3</model>
+                <description>3 лезвия обеспечивают отличное и комфортное бритье.
+Легкое промывание всех 3 лезвий благодаря открытой архитектуре обратной стороны картриджа.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+            </offer>
+
+<offer id="070" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_blades/957/</url>
+                <price>250</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/eb6/eb6c53174e119d5664098d90d50fb984.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TRXN-40</vendorCode>
+                <model>XPEC3 Nano</model>
+                <description>3 лезвия обеспечивают отличное, мягкое бритье за одно движение.
+Специальная увлажняющая полоска. Резиновый микрогребень.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+            </offer>
+
+<offer id="075" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_blades/1004/</url>
+                <price>250</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/55a/55a55ddf502ba9cdf32e5ecbd11952bb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TNA 3030</vendorCode>
+                <model>TG-II Plus</model>
+                <description>2 лезвия обеспечивают отличное, мягкое бритье за одно движение.
+Специальная смазывающая полоска.
+Совместимы с Gillette Slalom Plus®.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Количество сменных кассет в упаковке">3</param>
+            </offer>
+
+<offer id="080" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_blades/2513/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/9cd/9cd10ccd20757d99b4c1e7155473aa35.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TGP-50</vendorCode>
+                <model>TG-II Plus</model>
+                <description>2 лезвия обеспечивают отличное, мягкое бритье за одно движение.
+Специальная увлажняющая полоска.
+Совместимы с Gillette Slalom Plus®, Schick Ultrex®.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Количество сменных кассет в упаковке">5</param>
+            </offer>
+
+<offer id="085" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_blades/959/</url>
+                <price>250</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/b9a/b9aed74c44dc849f0ed68f5819c9700a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>G-3</vendorCode>
+                <model>G3</model>
+                <description>3 лезвия обеспечивают отличное, мягкое бритье за одно движение.
+Специальная увлажняющая полоска. Резиновый микрогребень.
+Совместимы с Gillette Sensor Excel®.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужская сменная кассета для бритья</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+<param name="Микрогребень">Резиновый</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Количество сменных кассет в упаковке">5</param>
+            </offer>
+
+<offer id="100" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2574/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/7c5/7c55ac940b80abaec70b510d5c095d07.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SXA100-1p</vendorCode>
+                <model>PACE6</model>
+                <description>6 лезвий обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">6</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="105" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2573/</url>
+                <price>600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/bde/bdee2950eef8f6c8d16af8fdd1ed5939.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SXA100-4p</vendorCode>
+                <model>PACE6</model>
+                <description>6 лезвий обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">6</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">4</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="110" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2575/</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/d66/d66494e10775ec80268ac44ad992061d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA100-1p</vendorCode>
+                <model>PACE4</model>
+                <description>4 лезвия обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="115" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2516/</url>
+                <price>500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/25f/25f1173d4a7e38c660493bd9671837ef.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA100-4p</vendorCode>
+                <model>PACE4</model>
+                <description>4 лезвия обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">4</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="120" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/967/</url>
+                <price>400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/bb2/bb2716828689ae07b2edacacb7f8f7b1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TRA100-4p</vendorCode>
+                <model>PACE3</model>
+                <description>3 лезвия обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">4</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="125" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/986/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/8e0/8e0ed691f61764e977d318c9f7f77acf.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TG820-4p</vendorCode>
+                <model>Comfort Grip Pivot</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Плавающая бреющая головка. Специальная увлажняющая полоска. Удлиненная прорезиненная ручка – 12,5 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">4</param>
+				<param name="Материал ручки">Пластиковая с резиновыми вставками</param>
+            </offer>
+
+<offer id="130" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2517/</url>
+                <price>160</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/941/9414900c477e0f7c3e0cecf348014c97.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TG711-5p</vendorCode>
+                <model>Soft Touch Pivot</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Плавающая бреющая головка. Специальная увлажняющая полоска. Удлиненная эргономичная ручка – 10,5 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="135" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/987/</url>
+                <price>120</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/67e/67ec77d2bc531fbc712827ec29f6c6af.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TG710-5p</vendorCode>
+                <model>Soft Touch</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Плавающая бреющая головка. Специальная увлажняющая полоска. Удлиненная эргономичная ручка – 10,5 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="140" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/988/</url>
+                <price>140</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/5b5/5b57e1093f4bd5af36ee3f5127a22702.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TG702-5p</vendorCode>
+                <model>Swing Plus</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Плавающая бреющая головка. Специальная увлажняющая полоска. Удлиненная эргономичная ручка – 10,5 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="145" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2518/</url>
+                <price>120</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/3ce/3ce9b3da8ee62004002d7be59adbe481.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TD702-5p</vendorCode>
+                <model>Swing</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Плавающая бреющая головка. Пластиковая удобная ручка длиной 9,5 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Нет</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="150" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/989/</url>
+                <price>100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/ee0/ee0482252e4805a64f74e7a5f6bffb12.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TG708-5p</vendorCode>
+                <model>New Fresh Plus</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Фиксированная бреющая головка. Специальная увлажняющая полоска. Пластиковая удобная ручка длиной 9 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="155" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2519/</url>
+                <price>90</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/84b/84b2a08eaa828c9fdd54a99a17e738e4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TD708-5p</vendorCode>
+                <model>New Fresh</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Фиксированная бреющая головка. Пластиковая удобная ручка длиной 9 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Нет</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="160" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/993/</url>
+                <price>90</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/64b/64b0d1175627cf6ec2d838dd49146afa.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TD705-5p</vendorCode>
+                <model>Dorco</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Фиксированная бреющая головка. Пластиковая удобная ручка длиной 9 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Нет</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="165" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/994/</url>
+                <price>90</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/3f7/3f7a8d8bcf08f4264bbe4775f89465ac.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TD706-5p</vendorCode>
+                <model>Dorco</model>
+                <description>2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Фиксированная бреющая головка. Пластиковая удобная ручка длиной 9 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Нет</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="170" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/995/</url>
+                <price>80</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/12c/12c796e6b0bc54ab62ee2b7e1902b781.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SD507-5p</vendorCode>
+                <model>Dorco</model>
+                <description>1 лезвие с микрозаточкой обеспечивает комфортное бритье, не вызывая раздражений.
+Фиксированная бреющая головка. Увеличенная пластиковая удобная ручка длиной 10 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">1</param>
+				<param name="Увлажняющая полоса">Нет</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="175" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/2520/</url>
+                <price>70</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/081/081c5a5a448f963ebc9be82cda73886c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SD503-5p</vendorCode>
+                <model>Dorco</model>
+                <description>1 лезвие с микрозаточкой обеспечивает комфортное бритье, не вызывая раздражений.
+Фиксированная бреющая головка. Увеличенная пластиковая удобная ручка длиной 10 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">1</param>
+				<param name="Увлажняющая полоса">Нет</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="180" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/men_razors/shave_disposables/997/</url>
+                <price>120</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>13</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/071/07139998e9e5ef0a7238d5e606e54caf.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Мужской одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SD503-10p</vendorCode>
+                <model>Dorco</model>
+                <description>1 лезвие с микрозаточкой обеспечивает комфортное бритье, не вызывая раздражений.
+Фиксированная бреющая головка. Увеличенная пластиковая удобная ручка длиной 10 см.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Мужской одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">1</param>
+				<param name="Увлажняющая полоса">Нет</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">10</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="200" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/classic_shave/980/</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/f70/f7090c109d2ae60046b4cd8ad31b5de6.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Классический бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>PL602</vendorCode>
+                <model>Двусторонний классический станок</model>
+                <description>Высококачественные, двусторонние, безопасные лезвия сделаны из нержавеющей стали.
+Поворачивающаяся пластиковая ручка. Лезвия с платиновым напылением.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Классический бритвенный станок</param>
+<param name="Плавающая головка">Нет</param>
+				<param name="Количество станков в упаковке">1</param>
+<param name="Количество лезвий в упаковке">2</param>
+
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="205" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/classic_shave/1005/</url>
+                <price>50</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/4e8/4e8dd37f8f56df4cd3af27df3091b767.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Классические лезвия для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>ST300-5p</vendorCode>
+                <model>Классические лезвия для бритья</model>
+                <description>Лезвия DORCO обработаны платиновым напылением, что позволяет Вам наслаждаться процессом бритья долгое время после покупки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Классические лезвия для бритья</param>
+<param name="Количество лезвий в упаковке">5</param>
+            </offer>
+
+            <offer id="250" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/women_razors/women_shave_systems/2670/</url>
+                <price>690</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>21</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/b96/b9660704b8846e73600a73fa05323efb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>LSXA 1000</vendorCode>
+                <model>SHAI Sweetie</model>
+                <description>Двойная сгибаемая 6-лезвийная бреющая головка делает бритье удивительно мягким и точным, повторяя контуры Вашего тела.
+Увлажняющая полоска. Широкий резиновый микрогребень. </description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женская бритвенная система</param>
+				<param name="Количество лезвий">3+3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+            <offer id="255" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_systems/2521/</url>
+                <price>500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>21</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/9c2/9c23f5db8d156b22078ef6edb0860f24.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женская бритвенная система</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA 2000</vendorCode>
+                <model>SHAI Reina</model>
+                <description>4-лезвийная бритвенная система обеспечивает отличное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женская бритвенная система</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Подставка">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Количество сменных кассет в упаковке">2</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="300" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_blades/972/</url>
+                <price>690</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/fed/fed471cb5e4b5051e2ae068ff8820e7e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>LSXA 1040</vendorCode>
+                <model>SHAI Sweetie</model>
+                <description>Двойная сгибаемая 6-лезвийная бреющая головка делает бритье удивительно мягким и точным, повторяя контуры Вашего тела.
+Увлажняющая полоска. Широкий резиновый микрогребень.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женская сменная кассета для бритья</param>
+				<param name="Количество лезвий">3+3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+            </offer>
+
+<offer id="305" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_blades/973/</url>
+                <price>500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/1b6/1b6b9d8b864a0fff0da211b6e21b2269.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA 2040</vendorCode>
+                <model>SHAI Reina</model>
+                <description>4-лезвийная бритвенная система обеспечивает отличное, мягкое бритье за одно движение.
+Легкое промывание. Специальная увлажняющая полоска. Резиновый микрогребень.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женская сменная кассета для бритья</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+            </offer>
+
+<offer id="310" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_blades/974/</url>
+                <price>350</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>22</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/537/5375d00facce30445dab40297c33b53b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женская сменная кассета для бритья</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TLS 40</vendorCode>
+                <model>SHAI</model>
+                <description>3 лезвия обеспечивают отличное, мягкое бритье за одно движение.
+Специальная увлажняющая полоска. Резиновый микрогребень.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женская сменная кассета для бритья</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Количество сменных кассет в упаковке">4</param>
+            </offer>
+
+<offer id="350" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_disposables/2577/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/0d1/0d1739bbc5a6676fb3c836ac41cf5022.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SXA 300-1p</vendorCode>
+                <model>SHAI Vanilla6</model>
+                <description>6 лезвий обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женский одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">6</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="355" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_disposables/2578/</url>
+                <price>480</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/333/3334004cfba5b49e59891920d8e54192.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>SXA 300-3b</vendorCode>
+                <model>SHAI Vanilla6</model>
+                <description>6 лезвий обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женский одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">6</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">3</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="360" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_disposables/2576/</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/274/274506b926b3f9698781b20f41fd7f6b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA 200-1p</vendorCode>
+                <model>SHAI Vanilla4</model>
+                <description>4 лезвия обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женский одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">1</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+		
+<offer id="365" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_disposables/978/</url>
+                <price>420</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/919/919bafc04e9fac4bbb2076aea867187e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>FRA 200-3b</vendorCode>
+                <model>SHAI Vanilla4</model>
+                <description>4 лезвия обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Специальное резиновое покрытие ручки. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женский одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">4</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Эластомер</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">3</param>
+				<param name="Материал ручки">Эргономичная прорезиненная</param>
+            </offer>
+
+<offer id="370" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_disposables/2634/</url>
+                <price>220</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/506/50685aeae64769abefe785bf86b14825.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TRA200W-4p</vendorCode>
+                <model>Dorco</model>
+                <description>3 лезвия обеспечивают комфортное, мягкое бритье за одно движение.
+Легкое промывание. Эргономичная пластиковая ручка. Революционная конструкция плавающей бреющей головки.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женский одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">3</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Есть</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Открытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">4</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="375" type="vendor.model" available="true">
+                <url>http://dorco-razors.ru/catalog/women_razors/women_shave_disposables/2523/</url>
+                <price>120</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>23</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Бритвы и лезвия</market_category>
+                <picture>http://dorco-razors.ru/upload/iblock/177/177683dbc3a4cde7bf84b41c69abd999.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский одноразовый бритвенный станок</typePrefix>
+                <vendor>Dorco</vendor>
+                <vendorCode>TG708NW-5p</vendorCode>
+                <model>Dorco</model>
+                <description> 2 лезвия обеспечивают комфортное, чистое бритье за одно движение.
+Фиксированная бреющая головка. Пластиковая удобная ручка длиной 9 см. Специальная увлажняющая полоска.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Женский одноразовый бритвенный станок</param>
+				<param name="Количество лезвий">2</param>
+				<param name="Увлажняющая полоса">Есть</param>
+				<param name="Плавающая головка">Нет</param>
+				<param name="Микрогребень">Нет</param>
+				<param name="Архитектура обратной стороны бреющей головки">Закрытая</param>
+				<param name="Защитный колпачок на бреющую головку">Есть</param>
+				<param name="Количество станков в упаковке">5</param>
+				<param name="Материал ручки">Рельефная пластиковая</param>
+            </offer>
+
+<offer id="500" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2585/</url>
+                <price>100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/c2f/c2f12fc57bf39cdcba9a2f83dc2b1dbb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977347</vendorCode>
+                <model>Comfort</model>
+                <description>Пена для бритья ARKO Men Comfort «Комфорт» смягчает щетину и обеспечивает меньше трения и жжения кожи для более комфортного бритья.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="505" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2586/</url>
+                <price>100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/6ff/6ffc1ef60b592976a3d7665363d7f5a2.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>13043003</vendorCode>
+                <model>Cool</model>
+                <description>Пена для бритья ARKO MEN Cool - современное, классическое средство для бритья. 
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="510" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2587/</url>
+                <price>100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/b77/b77bba1c27b600f8e6c9df114492267c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10978753</vendorCode>
+                <model>Fresh</model>
+                <description>Пена для бритья ARKO Men Fresh «Освежающая» благодаря своей специальной мятной формуле обеспечивает ощущение свежести в процессе бритья.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="515" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2588/</url>
+                <price>100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/bbe/bbe80a153c2a68d1d01918ad55b8f44c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>-</vendorCode>
+                <model>Hydrate</model>
+                <description>Пена для бритья ARKO Men Hydrate «Увлажняющая» помогает восстановить необходимый уровень увлажнения кожи.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="520" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2589/</url>
+                <price>100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/86b/86ba1b6c6d22558cf1368e33feac64db.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977297</vendorCode>
+                <model>Performance</model>
+                <description>Пена для бритья ARKO Men Performance «Экстра Скольжение» обеспечивает прекрасное скольжение и комфорт в процессе бритья.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="525" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2539/</url>
+                <price>100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/da1/da107dda1f404e2c93aa0b1ef083ce81.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>13000599</vendorCode>
+                <model>Sensitive</model>
+                <description>Пена для бритья ARKO MEN Sensitive - придает дополнительное увлажнение кожи и обеспечивает чистое и мягкое бритье!
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="530" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2598/</url>
+                <price>240</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/05d/05dedc3b5aa5c79ee2640b38ca0dea5a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81757</vendorCode>
+                <model>Экстремальный комфорт</model>
+                <description>Пена для бритья ЭКСТРЕМАЛЬНЫЙ КОМФОРТ обеспечивает экстремально чистое бритье с непревзойденным комфортом для кожи. Защищает кожу от раздражения. 
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="535" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2599/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/225/225e04e12b465598baf07ed96bdf1350.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81765</vendorCode>
+                <model>Экстремальная свежесть</model>
+                <description>Формула пены с освежающим экстрактом ментола и витаминным комплексом.
+Одобрено дерматологами.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+<offer id="540" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/foam/2600/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>41</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/b12/b123e18595c4009831a874a2561dbb56.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Пена для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>88541</vendorCode>
+                <model>Охлаждающая для чувствительной кожи</model>
+                <description>Инновационная разработка экспертов NIVEA MEN — Пена для бритья ОХЛАЖДАЮЩАЯ ДЛЯ ЧУВСТВИТЕЛЬНОЙ КОЖИ идеально подходит для гладкого бритья. 
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Пена для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="600" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2590/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/172/1728e146d6cc079651b8e1d3a4edd70f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977637</vendorCode>
+                <model>Comfort</model>
+                <description>Гель для бритья ARKO Men Comfort «Комфорт» смягчает щетину и обеспечивает меньше трения и жжения кожи для более комфортного бритья.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>	
+
+<offer id="605" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2537/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/b1b/b1b4549af488cef0bc1bee631a44a70f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>13000601</vendorCode>
+                <model>Sensitive</model>
+                <description>Гель для бритья ARKO MEN Sensitive - самое современное средство для бритья. Обеспечивает обильную пену, эластичность и упругость кожи во время бритья.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>					
+			
+<offer id="610" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2593/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/077/077e49a91061135c9f4c5531b88ac482.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>С-396В</vendorCode>
+                <model>Performance</model>
+                <description>Гель для бритья ARKO Men Performance «Экстра Скольжение» обеспечивает прекрасное скольжение и комфорт в процессе бритья.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="615" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2592/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/dbd/dbde7e94b2ee75ff45b5dec8c4ee6573.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>-</vendorCode>
+                <model>Hydrate</model>
+                <description>Гель для бритья ARKO Men Hydrate «Увлажняющий» помогает восстановить необходимый уровень увлажнения кожи.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="620" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2591/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/518/518198b84acbc723da1b512b2b5639b4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10978770</vendorCode>
+                <model>Fresh</model>
+                <description>Гель для бритья ARKO Men Fresh «Освежающий» благодаря своей специальной мятной формуле обеспечивает ощущение свежести и восстанавливает кожу.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+		
+<offer id="625" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2536/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/d2e/d2e3bb693724294b35933ab2afe2574e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>13631003</vendorCode>
+                <model>Cool</model>
+                <description>Гель для бритья ARKO MEN Cool - самое современное средство для бритья, обеспечивает обильную пену, эластичность и упругость кожи.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="630" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2603/</url>
+                <price>250</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/134/1345529a7e25672a2ac78fcbcb782474.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81740</vendorCode>
+                <model>Успокаивающий</model>
+                <description>Гель для бритья Nivea for Men "Успокаивающий" предназначен для мужчин с чувствительной, склонной к раздражению кожей. 
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="635" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2532/</url>
+                <price>250</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/02b/02b0c1fd6d7ff9ec4e2b4742a6935301.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81760</vendorCode>
+                <model>Увлажняющий "Классический"</model>
+                <description>Гель для бритья Nivea for Men "Классический" (увлажняющий) защищает и ухаживает.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="640" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2601/</url>
+                <price>330</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/b2d/b2da1ccce1608429dc96a99028f2a9c1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81358</vendorCode>
+                <model>Антибактериальный "Серебряная защита"</model>
+                <description>Ионы серебра, экстракт ромашки и провитамин В5, входящие в состав эффективной формулы, защищают от воздействия бактерий уже во время бритья.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+				
+<offer id="645" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/men-gel/2602/</url>
+                <price>310</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>42</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/799/7991ba95bf8263758ba7c84d17cdfa18.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Гель для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81751</vendorCode>
+                <model>Экстремальный комфорт</model>
+                <description>Передовая формула на основе системы Micro Technology с экстрактом ромашки и корня лакрицы моментально впитывается и действует эффективно.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="700" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/women-gel/2626/</url>
+                <price>300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>43</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/ef3/ef3202b814ed31ad09c1cae7d0bb0b60.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский гель для бритья</typePrefix>
+                <vendor>GILLETTE Satin Care</vendor>
+                <vendorCode>STC-81454944</vendorCode>
+                <model>Pure and Delicate</model>
+                <description>Нежная и гладкая кожа после каждого бритья благодаря одобренному дерматологами гелю для бритья Satin Care® Pure and Delicate®.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Великобритания</country_of_origin>
+				<param name="Тип">Женский гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="705" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/women-gel/2625/</url>
+                <price>300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>43</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/d09/d09ded2fde06e82d7fd5fe1b44b7cae9.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский гель для бритья</typePrefix>
+                <vendor>GILLETTE Satin Care</vendor>
+                <vendorCode>-</vendorCode>
+                <model>Sensitive Skin</model>
+                <description>Гель для бритья Satin Care® Sensitive Skin ухаживает за Вашей чувствительной кожей.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Великобритания</country_of_origin>
+				<param name="Тип">Женский гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="710" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/women-gel/2620/</url>
+                <price>230</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>43</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/b14/b14f7f4293671779ddeaab863697c919.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский гель для бритья</typePrefix>
+                <vendor>ARKO Soft Touch</vendor>
+                <vendorCode>10977927</vendorCode>
+                <model>Тропическая свежесть</model>
+                <description>Увлажняет кожу и обеспечивает чистое и мягкое бритье. Специальная формула с экстрактом манго и мандарина смягчает и придает коже приятный аромат.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Женский гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="715" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/women-gel/2619/</url>
+                <price>230</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>43</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/c1f/c1ff6057081823648fd878b3021b08ef.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Женский гель для бритья</typePrefix>
+                <vendor>ARKO Soft Touch</vendor>
+                <vendorCode>503234</vendorCode>
+                <model>Восточные мечты</model>
+                <description>Увлажняет и питает кожу, обеспечивает чистое и мягкое бритье.
+Объем флакона - 200 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Женский гель для бритья</param>
+				<param name="Объем">200 мл.</param>
+				</offer>
+
+<offer id="750" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2541/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/be5/be5fe833ba545827bc43cd5e089a5910.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>13000600</vendorCode>
+                <model>Sensitive</model>
+                <description>Экономичное, традиционное средство для бритья.
+Объем тубы - 65 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">65 г.</param>
+				</offer>
+
+<offer id="755" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2597/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/e2b/e2b1b9427df9a856adaa58449175b710.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977293</vendorCode>
+                <model>Performance</model>
+                <description>Обеспечивает прекрасное скольжение и комфорт в процессе бритья.
+Объем тубы - 65 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">65 г.</param>
+				</offer>
+
+<offer id="760" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2596/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/824/8249c17eaf862f6812de49d66a2b6f3b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>-</vendorCode>
+                <model>Hydrate</model>
+                <description>Помогает восстановить необходимый уровень влажности кожи благодаря формуле с витамином Е и экстра-увлажняющими компонентами.
+Объем тубы - 65 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">65 г.</param>
+				</offer>
+
+<offer id="765" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2595/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/807/8073d395575ec6e814a2fde575d3581e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10978768</vendorCode>
+                <model>Fresh</model>
+                <description>Благодаря своей специальной мятной формуле обеспечивает ощущение свежести в процессе бритья и восстанавливает кожу.
+Объем тубы - 65 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">65 г.</param>
+				</offer>
+				
+<offer id="770" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2540/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/4ac/4acd4a2c470d73b9c69ab8a291bba6f7.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>13696003</vendorCode>
+                <model>Cool</model>
+                <description>Благодаря специальной формуле, в состав которой входит Витамин Е и Аллотаин - крем для бритья смягчает и освежает кожу.
+Объем тубы - 65 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">65 г.</param>
+				</offer>				
+
+<offer id="775" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2594/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/d29/d29502102d9e1213c1ef1b25290f9fef.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977346</vendorCode>
+                <model>Comfort</model>
+                <description>Смягчает щетину и обеспечивает меньше трения и жжения кожи для более комфортного бритья.
+Объем тубы - 65 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">65 г.</param>
+				</offer>
+
+<offer id="780" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2534/</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/27d/27d3d38f1bc18f481cd92d7b6ad770c5.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81772</vendorCode>
+                <model>Классический</model>
+                <description>Предназначен для мужчин, чья кожа склонна к сухости и жжению при бритье.
+Объем тубы - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>
+
+<offer id="785" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/for-shave/cream-for-shave/2535/</url>
+                <price>120</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>44</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Уход за телом/Депиляция и эпиляция/Средства до и после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/1c5/1c5ea9f411fe03e67203424d99214a9e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем для бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81308</vendorCode>
+                <model>Успокаивающий</model>
+                <description>Предназначен для мужчин, чья кожа склонна к сухости и жжению при бритье. 
+Объем тубы - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Крем для бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>
+
+<offer id="800" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/cream-after-shave/2606/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>51</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/228/22892aad0eadd2d258b204101730e1bc.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем после бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10978769</vendorCode>
+                <model>Fresh</model>
+                <description>Благодаря своей специальной мятной формуле обеспечивает длительное ощущение свежести и восстанавливает кожу.
+Объем тубы - 50 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем после бритья</param>
+				<param name="Объем">50 г.</param>
+				</offer>
+
+<offer id="805" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/cream-after-shave/2605/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>51</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/d3d/d3d6075d469c6c79bb7f3370ea560ceb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем после бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>13335003</vendorCode>
+                <model>Cool</model>
+                <description>Заботится о вашей коже после бритья, освежая ее благодаря специальному охлаждающему компоненту.
+Объем тубы - 50 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем после бритья</param>
+				<param name="Объем">50 г.</param>
+				</offer>
+
+<offer id="810" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/cream-after-shave/2604/</url>
+                <price>60</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>51</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/64e/64e07c377d8a33b996d5111137483733.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Крем после бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>504314</vendorCode>
+                <model>Comfort</model>
+                <description>Формула с морскими минералами смягчает кожу и уменьшает ощущение жжения после бритья.
+Объем тубы - 50 гр.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Крем после бритья</param>
+				<param name="Объем">50 г.</param>
+				</offer>				
+				
+<offer id="850" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2611/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/2fe/2fedebfb54b5a53c856bbdf4084ea2dd.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977436</vendorCode>
+                <model>Sensitive</model>
+                <description>Специально разработанная формула для чувствительной мужской кожи. Защищает чувствительную кожу и уменьшает риск раздражения.
+Объем - 150 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">150 мл.</param>
+				</offer>
+
+<offer id="855" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2610/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/343/343a2ae2ef1f1ea006a38a604b74a8a4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10978822</vendorCode>
+                <model>Fresh</model>
+                <description>Благодаря своей специальной мятной формуле обеспечивает длительное ощущение свежести и восстанавливает кожу.
+Объем - 150 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">150 мл.</param>
+				</offer>
+				
+<offer id="860" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2609/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/837/83729fc2c2ecd0686dc22e9b7ed64a22.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977432</vendorCode>
+                <model>Cool</model>
+                <description>Заботится о вашей коже после бритья, освежая ее благодаря специальному охлаждающему компоненту.
+Объем - 150 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">150 мл.</param>
+				</offer>				
+
+<offer id="865" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2608/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/392/392df00ac29515940a0603b61e058534.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>ARKO MEN</vendor>
+                <vendorCode>10977434</vendorCode>
+                <model>Comfort</model>
+                <description>Формула с морскими минералами смягчает кожу и уменьшает ощущение жжения после бритья.
+Объем - 150 мл.</description>
+                <country_of_origin>Турция</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">150 мл.</param>
+				</offer>				
+
+<offer id="870" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2617/</url>
+                <price>400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/5bc/5bc5b15d7c614991cde4da12d856d6d8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>88866</vendorCode>
+                <model>Антибактериальный "Серебряная защита"</model>
+                <description>Ионы серебра, экстракт ромашки и провитамин В5, входящие в состав эффективной формулы, обеспечивают антибактериальную защиту. 
+Объем - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>	
+
+<offer id="875" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2614/</url>
+                <price>370</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/6ab/6abb94c4f7fff87d03edad10778a19bf.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>88544</vendorCode>
+                <model>Охлаждающий для чувствительной кожи</model>
+                <description>Новая мягкая формула без спирта и ментола, обогащенная экстрактами ромашки и морских водорослей, мгновенно успокаивает раздраженную бритьем кожу. 
+Объем - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>
+
+<offer id="880" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2613/</url>
+                <price>360</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/9ee/9ee51c4092776dace69868711434a809.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81383</vendorCode>
+                <model>Экстремальная свежесть</model>
+                <description>Бальзам с ментолом, витамином Е и про-витамином В5. 
+Объем - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>
+
+<offer id="885" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2612/</url>
+                <price>350</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/23d/23d4957c2436fb7b5b7037dc55768815.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Бальзам после бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81300</vendorCode>
+                <model>Увлажняющий "Классический"</model>
+                <description>Легкая формула с увлажняющими компонентами, витамином Е и алоэ вера. 
+Объем - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Бальзам после бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>
+
+<offer id="900" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2616/</url>
+                <price>400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/41f/41fbba978ae6e5e9a5ba9329e909b417.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Лосьон после бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81340</vendorCode>
+                <model>Антибактериальный "Серебряная защита"</model>
+                <description>Ионы серебра, экстракт ромашки и провитамин В5, входящие в состав эффективной формулы, обеспечивают антибактериальную защиту.
+Объем - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Лосьон после бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>
+
+<offer id="905" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/after-shave/balm/2615/</url>
+                <price>400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>52</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Бритье/Средства после бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/188/1887ac5053ea2a1cf312d4808d9a160a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Лосьон после бритья</typePrefix>
+                <vendor>Nivea MEN</vendor>
+                <vendorCode>81318</vendorCode>
+                <model>Заряд энергии</model>
+                <description>Таурин в составе лосьона мгновенно заряжает кожу энергией, а витамин Е ухаживает и успокаивает после бритья.
+Объем - 100 мл.</description>
+                <country_of_origin>Германия</country_of_origin>
+				<param name="Тип">Лосьон после бритья</param>
+				<param name="Объем">100 мл.</param>
+				</offer>
+
+<offer id="950" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/brush/2548/</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>61</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/d1e/d1ef93329a98e2d6f3a445c38a56ad4d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Помазок для бритья</typePrefix>
+                <vendor>SlavCo</vendor>
+                <vendorCode>p-06</vendorCode>
+                <model>ГНОМ</model>
+                <description>Высококачественный помазок из натуральной свиной щетины. Помазок имеет твердые щетинки, которые массируют кожу.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Китай</country_of_origin>
+				<param name="Тип">Помазок для бритья</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>
+
+<offer id="955" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/brush/2546/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>61</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/743/743d1b9670b212a484ef81a808ef621d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Помазок для бритья</typePrefix>
+                <vendor>SlavCo</vendor>
+                <vendorCode>p-05</vendorCode>
+                <model>ЯНТАРЬ</model>
+                <description>Высококачественный помазок из натуральной свиной щетины. Помазок имеет твердые щетинки, которые массируют кожу.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Китай</country_of_origin>
+				<param name="Тип">Помазок для бритья</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>
+
+<offer id="960" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/brush/2543/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>61</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/22d/22da375950bdc0c0858a5e6782d85d92.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Помазок для бритья</typePrefix>
+                <vendor>SlavCo</vendor>
+                <vendorCode>p-04</vendorCode>
+                <model>ПРЕСТИЖ</model>
+                <description>Высококачественный помазок из натуральной свиной щетины. Помазок имеет твердые щетинки, которые массируют кожу.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Китай</country_of_origin>
+				<param name="Тип">Помазок для бритья</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>				
+
+<offer id="965" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/brush/2547/</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>61</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/59a/59af4dff70df212dd0d227690dbe9549.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Помазок для бритья</typePrefix>
+                <vendor>SlavCo</vendor>
+                <vendorCode>p-03</vendorCode>
+                <model>МАЛЫШ</model>
+                <description>Высококачественный помазок из натуральной свиной щетины. Помазок имеет твердые щетинки, которые массируют кожу.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Китай</country_of_origin>
+				<param name="Тип">Помазок для бритья</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>
+
+<offer id="970" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/brush/2544/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>61</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/ca9/ca9fe14d51968c64f1c408d1129291c8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Помазок для бритья</typePrefix>
+                <vendor>SlavCo</vendor>
+                <vendorCode>p-02</vendorCode>
+                <model>КЛАССИК</model>
+                <description>Высококачественный помазок из натуральной свиной щетины. Помазок имеет твердые щетинки, которые массируют кожу.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Китай</country_of_origin>
+				<param name="Тип">Помазок для бритья</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>
+
+<offer id="975" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/brush/2545/</url>
+                <price>200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>61</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Мужчинам/Средства для бритья</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/f3b/f3b25898aff027063b8b542c8d73315b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Помазок для бритья</typePrefix>
+                <vendor>SlavCo</vendor>
+                <vendorCode>p-01</vendorCode>
+                <model>ИДЕАЛ</model>
+                <description>Высококачественный помазок из натуральной свиной щетины. Помазок имеет твердые щетинки, которые массируют кожу.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Китай</country_of_origin>
+				<param name="Тип">Помазок для бритья</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>
+
+<offer id="1000" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/corrector/983/</url>
+                <price>170</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>62</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Макияж/Корректоры</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/4d7/4d747d9d4273a27bd8b60beb09249b0b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Корректор бровей</typePrefix>
+                <vendor>DORCO</vendor>
+                <vendorCode>LI-0002</vendorCode>
+                <model>TINKLE-Rose</model>
+                <description>Закрывающееся рельефное лезвие, которым сложно случайно порезаться.
+Удобная ручка, с помощью которой можно легко сделать требуемое движение.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Корректор бровей</param>
+				<param name="Количество бреющих лезвий">1</param>
+				<param name="Количество станков в упаковке">3</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>
+
+<offer id="1005" type="vendor.model" available="true">
+                <url>https://dorco-razors.ru/catalog/accessories/corrector/984/</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>62</categoryId>
+<market_category>Все товары/Красота и здоровье/Косметика, парфюмерия и уход/Макияж/Корректоры</market_category>
+                <picture>https://dorco-razors.ru/upload/iblock/e6c/e6ccd9193eedc7138915cb5ed7aa08af.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+                <delivery>true</delivery>
+                <typePrefix>Корректор бровей</typePrefix>
+                <vendor>DORCO</vendor>
+                <vendorCode>LI-0001</vendorCode>
+                <model>TINKLE</model>
+                <description>Рельефное лезвие, которым сложно случайно порезаться.
+Удобная ручка, с помощью которой можно легко сделать требуемое движение.
+Материал ручки - пластиковая.</description>
+                <country_of_origin>Южная Корея</country_of_origin>
+				<param name="Тип">Корректор бровей</param>
+				<param name="Количество бреющих лезвий">1</param>
+				<param name="Количество станков в упаковке">3</param>
+				<param name="Материал ручки">Пластиковая</param>
+				</offer>
+				
+		</offers>		
+        
+    </shop>
+</yml_catalog>

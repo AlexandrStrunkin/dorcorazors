@@ -1,5 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("title", "Развитие DORCO");
 $APPLICATION->SetTitle("Развитие DORCO");
 ?>1955-1980-е&nbsp;<br>
  авг.&nbsp;1955 – создание DORCO Inc.&nbsp;<br>

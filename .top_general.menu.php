@@ -1,7 +1,7 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Каталог", 
+		"Каталог продукции", 
 		"catalog/", 
 		Array(), 
 		Array(), 

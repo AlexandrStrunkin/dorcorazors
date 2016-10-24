@@ -1,3 +1,6 @@
 <?
-$sSectionName="Оптовые продажи DORCO";
+$sSectionName = "Оптовые продажи DORCO";
+$arDirProperties = Array(
+
+);
 ?>

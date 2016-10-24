@@ -1,5 +1,8 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle(" аталог");
+$APPLICATION->SetPageProperty("description", "DORCO-razors.ru");
+$APPLICATION->SetPageProperty("keywords", "бритье, бритва, бритвенный станок, одноразовый станок, сменные кассеты дл€ брить€, бритвенна€ система, система дл€ брить€, средство дл€ брить€, средство после брить€, аксессуары дл€ брить€, пена дл€ брить€, гель дл€ брить€, женский гель дл€ брить€, крем дл€ брить€, крем после брить€, бальзам после брить€, лосьон после брить€, помазок дл€ брить€, корректор бровей, корректор дл€ бровей");
+$APPLICATION->SetPageProperty("title", " аталог продукции");
+$APPLICATION->SetTitle(" аталог продукции");
 $APPLICATION->IncludeComponent(
 	"bitrix:catalog", 
 	"main", 

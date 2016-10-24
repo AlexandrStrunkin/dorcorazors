@@ -1,5 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("title", "Совместимость с Gillette");
 $APPLICATION->SetTitle("Совместимость с Gillette");
 ?>В ассортименте компании DORCO есть определенная часть товаров, которые совместимы с некоторыми бритвенными системами Gillette™:<br>
 <ul>

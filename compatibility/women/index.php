@@ -1,5 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("title", "Совместимость женских сменных кассет");
 $APPLICATION->SetTitle("Совместимость женских сменных кассет");
 ?><b>Бритвенные системы SHAI Sweetie и SHAI Reina.</b><br>
  6-лезвийная бритвенная система <a href="/catalog/women_razors/women_shave_systems/1009/">SHAI Sweetie</a>&nbsp;и 4-лезвийная&nbsp;<a href="/catalog/women_razors/women_shave_systems/2521/">SHAI Reina</a>&nbsp;полностью взаимозаменяемы (совместимы) друг с другом. Это значит, что Вы можете использовать сменные кассеты <a href="/catalog/women_razors/women_shave_blades/972/">SHAI Sweetie</a> на бритвенной ручке <a href="/catalog/women_razors/women_shave_systems/2521/">SHAI Reina</a>, и наоборот.<br>

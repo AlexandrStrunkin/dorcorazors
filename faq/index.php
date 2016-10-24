@@ -1,6 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Вопрос-ответ");
+$APPLICATION->SetPageProperty("keywords", "вопросы, ответы, faq");
+$APPLICATION->SetPageProperty("title", "FAQ");
+$APPLICATION->SetTitle("FAQ");
 ?>
 
 <h2>Ответы на частые вопросы</h2>

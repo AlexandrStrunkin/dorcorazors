@@ -1,8 +1,8 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("title", "DORCO-razors.ru - Бритвенные станки, системы, сменные кассеты, средства и аксессуары для бритья");
+$APPLICATION->SetPageProperty("title", "DORCO-razors.ru - официальный интернет-магазин бритвенной продукции DORCO");
 $APPLICATION->SetPageProperty("keywords", "Дорко, купить дорко, купить dorco, купить dorco, dorko, вщксщ, вщклщ, бритье, dorco, компания dorco, качественное бритье, чистое бритье, интернет-магазин dorco, магазин dorco, продукция dorco, dorco оптом, мужская бритвенная система, мужской одноразовый станок, женская бритвенная система, женский одноразовый станок, классический бритвенный станок");
-$APPLICATION->SetPageProperty("description", "Официальный интернет-магазин DORCO. Огромный выбор бритвенных станков, систем, сменных кассет, а так же средств и аксессуаров для бритья.");
-$APPLICATION->SetTitle("DORCO-razors.ru - Бритвенные станки, системы, сменные кассеты, средства и аксессуары для бритья");
+$APPLICATION->SetPageProperty("description", "Официальный интернет-магазин бритвенной продукции DORCO");
+$APPLICATION->SetTitle("DORCO-razors.ru");
 ?>
 <? global $SITE_THEME; ?>
     <?$APPLICATION->IncludeComponent(

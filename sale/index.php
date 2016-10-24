@@ -1,5 +1,7 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("keywords", "акция, подарок, спецпредложение, мужской подарок, бритва в подарок, скидка");
+$APPLICATION->SetPageProperty("title", "Акции");
 $APPLICATION->SetTitle("Акции");
 ?>
 

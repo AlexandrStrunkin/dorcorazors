@@ -1,5 +1,7 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("keywords", "контакты, телефон, e-mail, график работы");
+$APPLICATION->SetPageProperty("title", "Контакты");
 $APPLICATION->SetTitle("Контакты");
 ?><div class="contacts_description">
 	 <?$APPLICATION->IncludeFile(SITE_DIR."include/contacts_text.php", Array(), Array("MODE" => "html", "NAME"  => GetMessage("CONTACTS_TEXT"),));?>

@@ -1,3 +1,6 @@
 <?
-$sSectionName="ׁמגלוסעטלמסעü ס Gillette";
+$sSectionName = "ׁמגלוסעטלמסעü ס Gillette";
+$arDirProperties = Array(
+   "title" => "ׁמגלוסעטלמסעü ס Gillette"
+);
 ?>

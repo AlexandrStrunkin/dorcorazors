@@ -1,5 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("title", "Совместимость мужских сменных кассет");
 $APPLICATION->SetTitle("Совместимость мужских сменных кассет");
 ?><b>Продукция серии PACE</b><sup><b>®</b></sup><b>.</b> <br>
  PACE<sup>®</sup> - это запатентованная компанией DORCO система крепления сменных кассет к бритвенным системам. Вся продукция, в названии которой есть&nbsp;PACE<sup>®</sup> - полностью совместима друг с другом. Таким образом, вы можете экспериментировать с 3-,4-, 6- или 7-лезвийными сменными кассетами серии&nbsp;PACE<sup>®</sup>, при этом имея всего одну бритвенную ручку из этой же серии. К ним относятся: <a href="/catalog/men_razors/shave_systems/2654/">PACE7</a>,&nbsp;<a href="/catalog/men_razors/shave_systems/2508/">PACE6 Plus</a>, <a href="/catalog/men_razors/shave_systems/2581/">PACE6</a>, <a href="/catalog/men_razors/shave_systems/2510/">PACE4</a> и <a href="/catalog/men_razors/shave_systems/2511/">PACE3</a>. <br>
